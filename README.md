@@ -8,3 +8,7 @@ The system emphasizes modularity, security, and scalability, enabling future enh
 🎯 Built with Flask | MySQL | HTML/CSS | Bootstrap
 🔒 Secure | 📈 Scalable | 💡 Role-Based Access
 
+Template.zip contains all html based codes.
+app.py contains main working code
+
+
